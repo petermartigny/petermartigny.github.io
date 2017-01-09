@@ -19,7 +19,7 @@ I will share here comments, reports and codes for academic projects
 
 ## Data for Good projects
 
-[website](http://www.dataforgood.fr/)
+[dataforgood.fr](http://www.dataforgood.fr/)
 
 Data for Good is a community of data scientists, developers and projects managers, willing to use technology to solve socieatl issues, in the fields of education, health, housing...
 
@@ -39,7 +39,7 @@ As an active member of the community, I will share here thoughts from experience
     
 ## Paris Summer Innovation Fellowship
 
-The PSIF has been organized for the first time by Five by Five in the summer 2016. The goal was to gather 20 young people in order to tackle a societal issue using technology, within 2 weeks and with mentoring. [website](http://www.summerfellows.paris/)
+The PSIF has been organized for the first time by Five by Five in the summer 2016. The goal was to gather 20 young people in order to tackle a societal issue using technology, within 2 weeks and with mentoring. [summerfellows.paris](http://www.summerfellows.paris/)
 I will explain the project I've carried out with the French Cour des Comptes.
 
 ## Open Data
