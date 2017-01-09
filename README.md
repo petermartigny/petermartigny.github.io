@@ -34,14 +34,22 @@ As an active member of the community, I will share here thoughts from experience
 
     Matching Under-privileged students with the right mentors with the association Frateli
     The project has been covered (in French) by Alizée Breton and available on a medium post: [Frateli Project](https://medium.com/data-for-good/et-si-la-technologie-pouvait-contribuer-%C3%A0-l%C3%A9galit%C3%A9-des-chances-e8318ad29a9c#.5epk3di73) 
+    [Open Source Repo](https://github.com/dataforgoodfr/batch1_frateli)
+    [Frateli Website](http://frateli.org/)
     
 - Data for Good Batch #2
 
     Building a tool to automatically detect too expensive housing offers on [pap.fr](www.pap.fr), according to Paris prices regulations
+    Hopes are that the application will be included in the dedicated [government webpage](http://www.encadrementdesloyers.gouv.fr/)
     
 - Data for Good Batch #3
 
     Incoming project tackling the French presidential elections
+    Some Ideas: 
+    
+    - Gathering as much data as possible from different sources (text, speech, images, videos)
+    - Creating Chatbots to chat with different candidates
+    - Creating DataViz to display the candidates positions w.r.t. each other
     
 ## Paris Summer Innovation Fellowship
 
