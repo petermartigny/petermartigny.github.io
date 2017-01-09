@@ -45,6 +45,7 @@ As an active member of the community, I will share here thoughts from experience
 - Data for Good Batch #3
 
     Incoming project tackling the French presidential elections
+    
     Some Ideas: 
     
     - Gathering as much data as possible from different sources (text, speech, images, videos)
