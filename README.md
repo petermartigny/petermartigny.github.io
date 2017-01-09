@@ -30,7 +30,7 @@ Works and thoughts from our 20 people informal group, studying the course from R
 [Medium](https://medium.com/@DataForGood_FR)
 [Twitter](https://twitter.com/DataForGood_FR)
 
-Data for Good is a community of data scientists, developers and projects managers, willing to use technology to solve socieatl issues, in the fields of education, health, housing...
+Data for Good is a community of data scientists, developers and projects managers, willing to use technology to solve social issues, in the fields of education, health, housing...
 
 As an active member of the community, I will share here thoughts from experience doing data science volunteering: 
 
