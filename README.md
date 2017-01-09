@@ -20,6 +20,10 @@ I will share here comments, reports and codes for academic projects
 - Compressed Sensing
 - DataViz
 
+## Deep Learning for NLP Study Group
+
+Works and thoughts from our 20 people informal group, studying the course from R. Socher and C. Manning @ Stanford [CS224d](http://cs224d.stanford.edu/syllabus) and [CS224n](http://web.stanford.edu/class/cs224n/)
+
 ## Data for Good projects
 
 [website](http://www.dataforgood.fr/)
