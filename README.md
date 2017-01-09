@@ -1,5 +1,6 @@
 # Welcome to Peter's website!
 [Twitter](https://twitter.com/PeterMartigny)
+
 [Medium](https://medium.com/@peter.martigny)
 
 My name is Peter Martigny, I am a student in Machine Learning at Ecole polytechnique and ENSAE ParisTech, in France.
@@ -22,7 +23,9 @@ I will share here comments, reports and codes for academic projects
 ## Data for Good projects
 
 [dataforgood.fr](http://www.dataforgood.fr/)
+
 [Medium Page](https://medium.com/@DataForGood_FR)
+
 [Twitter](https://twitter.com/DataForGood_FR)
 
 Data for Good is a community of data scientists, developers and projects managers, willing to use technology to solve socieatl issues, in the fields of education, health, housing...
