@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Welcome to Peter's website!
 
-You can use the [editor on GitHub](https://github.com/petermartigny/petermartigny.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Peter Martigny, I am a student in Machine Learning at Ecole polytechnique and ENSAE ParisTech.
+This website will contain thoughts on different fields, the list not being exhaustive: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Academic projects
 
-### Markdown
+I will share here comments, reports and codes for academic projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Machine Learning: From Theory to Practise
+- Methods for Big Data Analytics
+- Optimization for Data Science
+- Statistical Learning
+- Structured Learning & Predictions in Computer Vision
+- Deep Learning
+- Online Learning
+- Compressed Sensing
+- DataViz
 
-```markdown
-Syntax highlighted code block
+## Data for Good projects
 
-# Header 1
-## Header 2
-### Header 3
+Data for Good is a community of data scientists, developers and projects managers, willing to use technology to solve socieatl issues, in the fields of education, health, housing...
 
-- Bulleted
-- List
+As an active member of the community, I will share here thoughts from experience doing data science volunteering: 
 
-1. Numbered
-2. List
+- Data for Good Batch #1
 
-**Bold** and _Italic_ and `Code` text
+    Matching Under-privileged student with the right mentors with the association Frateli
+    
+- Data for Good Batch #2
 
-[Link](url) and ![Image](src)
-```
+    Building a tool to automatically detect too expensive housing offers on pap.fr, according to Paris prices regulations
+    
+- Data for Good Batch #3
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    Incoming project tackling the French presidential elections
+    
+## Paris Summer Innovation Fellowship
 
-### Jekyll Themes
+The PSIF has been organized for the first time by Five by Five in the summer 2016. The goal was to gather 20 young people in order to tackle a societal issue using technology, within 2 weeks and with mentoring.
+I will explain the project I've carried out with the French Cour des Comptes.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/petermartigny/petermartigny.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Open Data
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I will post some personal thoughts on the way that Open Data provides a lot to the community
