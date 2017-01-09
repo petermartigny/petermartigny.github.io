@@ -1,10 +1,9 @@
 # Welcome to Peter's website!
 [Twitter](https://twitter.com/PeterMartigny)
-
 [Medium](https://medium.com/@peter.martigny)
 
 My name is Peter Martigny, I am a student in Machine Learning at Ecole polytechnique and ENSAE ParisTech, in France.
-This website will contain thoughts on different fields, the list not being exhaustive: 
+This website will contain works as well as thoughts on different fields related to the use of data, both theoretically and practically: 
 
 ## Academic projects
 
