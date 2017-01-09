@@ -45,6 +45,7 @@ As an active member of the community, I will share here thoughts from experience
 
     Building a tool to automatically detect too expensive housing offers on [pap.fr](www.pap.fr), according to Paris prices regulations
     Hopes are that the application will be included in the dedicated [government webpage](http://www.encadrementdesloyers.gouv.fr/)
+    See the [Open Source Repo](https://github.com/dataforgoodfr/batch2_loyers) and the [livestream](https://www.facebook.com/dataforgoodfr/?fref=ts) of the Demo Day at [The Family](https://www.thefamily.co/)
     
 - Data for Good Batch #3
 
