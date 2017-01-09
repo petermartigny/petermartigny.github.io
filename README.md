@@ -37,7 +37,7 @@ As an active member of the community, I will share here thoughts from experience
     
 - Data for Good Batch #2
 
-    Building a tool to automatically detect too expensive housing offers on pap.fr, according to Paris prices regulations
+    Building a tool to automatically detect too expensive housing offers on [pap.fr](www.pap.fr), according to Paris prices regulations
     
 - Data for Good Batch #3
 
