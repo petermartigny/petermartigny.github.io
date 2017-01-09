@@ -14,6 +14,7 @@ I will share here comments, reports and codes for academic projects
 - Optimization for Data Science
 - Statistical Learning
 - Structured Learning & Predictions in Computer Vision
+- Machine Learning with Kernels
 - Deep Learning
 - Online Learning
 - Compressed Sensing
