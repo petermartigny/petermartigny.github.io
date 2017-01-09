@@ -22,10 +22,8 @@ I will share here comments, reports and codes for academic projects
 
 ## Data for Good projects
 
-[dataforgood.fr](http://www.dataforgood.fr/)
-
-[Medium Page](https://medium.com/@DataForGood_FR)
-
+[website](http://www.dataforgood.fr/)
+[Medium](https://medium.com/@DataForGood_FR)
 [Twitter](https://twitter.com/DataForGood_FR)
 
 Data for Good is a community of data scientists, developers and projects managers, willing to use technology to solve socieatl issues, in the fields of education, health, housing...
