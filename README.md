@@ -36,10 +36,9 @@ As an active member of the community, I will share here thoughts from experience
 
 - Data for Good Batch #1
 
-    Matching Under-privileged students with the right mentors with the association Frateli
+    Matching Under-privileged students with the right mentors with the association [Frateli](http://frateli.org/)
     The project has been covered (in French) by Alizée Breton and available on a medium post: [Frateli Project](https://medium.com/data-for-good/et-si-la-technologie-pouvait-contribuer-%C3%A0-l%C3%A9galit%C3%A9-des-chances-e8318ad29a9c#.5epk3di73) 
     [Open Source Repo](https://github.com/dataforgoodfr/batch1_frateli)
-    [Frateli Website](http://frateli.org/)
     
 - Data for Good Batch #2
 
