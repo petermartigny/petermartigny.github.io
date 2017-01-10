@@ -3,7 +3,7 @@
 [Medium](https://medium.com/@peter.martigny)
 
 My name is Peter Martigny, I am a student in Machine Learning at Ecole polytechnique and ENSAE ParisTech, in France.
-This website will contain works as well as thoughts on different fields related to the use of data, both theoretically and practically: 
+This website includes works as well as thoughts on different fields related to the use of data, both theoretically and practically: 
 
 ## Academic projects
 
