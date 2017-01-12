@@ -2,7 +2,7 @@
 [Twitter](https://twitter.com/PeterMartigny)
 [Medium](https://medium.com/@peter.martigny)
 
-My name is Peter Martigny, I am a student in Machine Learning at Ecole polytechnique and ENSAE ParisTech, in France.
+My name is [Peter Martigny](https://fr.linkedin.com/in/peter-martigny-08307575), I am a student in Machine Learning at Ecole polytechnique and ENSAE ParisTech, in France.
 This website includes works as well as thoughts on different fields related to the use of data, both theoretically and practically: 
 
 ## Academic projects
