@@ -9,7 +9,7 @@ This website includes works as well as thoughts on different fields related to t
 
 I will share here comments, reports and codes for academic projects
 
-- Machine Learning: From Theory to Practise
+- [Machine Learning: From Theory to Practise](https://github.com/petermartigny/machine-learning)
 - Methods for Big Data Analytics
 - Optimization for Data Science
 - Statistical Learning
