@@ -10,9 +10,10 @@ This website includes works as well as thoughts on different fields related to t
 I will share here comments, reports and codes for academic projects
 
 - [Machine Learning: From Theory to Practise](https://github.com/petermartigny/machine-learning)
-- Methods for Big Data Analytics
-- Optimization for Data Science
-- Statistical Learning
+- [Methods for Big Data Analytics](https://github.com/petermartigny/Axa-Challenge)
+- [Optimization for Data Science](https://github.com/petermartigny/Optimization)
+- [Data Camp 2016](https://github.com/petermartigny/datacamp2016)
+- [Statistical Learning](https://github.com/petermartigny/Statistical-Learning)
 - Structured Learning & Predictions in Computer Vision
 - Machine Learning with Kernels
 - Deep Learning
