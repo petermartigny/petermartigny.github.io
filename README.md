@@ -14,12 +14,12 @@ I will share here comments, reports and codes for academic projects
 - [Optimization for Data Science](https://github.com/petermartigny/Optimization)
 - [Data Camp 2016](https://github.com/petermartigny/datacamp2016)
 - [Statistical Learning](https://github.com/petermartigny/Statistical-Learning)
-- Structured Learning & Predictions in Computer Vision
-- Machine Learning with Kernels
-- Deep Learning
-- Online Learning
-- Compressed Sensing
-- DataViz
+- [Structured Learning & Predictions in Computer Vision](https://github.com/petermartigny/Structured-Learning-and-Predictions)
+- [Machine Learning with Kernels](https://github.com/petermartigny/Machine-Learning-with-Kernels)
+- [Deep Learning](https://gi](https://github.com/petermartigny/Compressed-Sensing)thub.com/petermartigny/Deep-Learning)
+- [Online Learning](https://github.com/petermartigny/Online-Learning)
+- [Compressed Sensing](https://github.com/petermartigny/Compressed-Sensing)
+- [DataViz](https://github.com/petermartigny/DataViz)
 
 ## Deep Learning for NLP Study Group
 
