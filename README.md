@@ -16,7 +16,7 @@ I will share here comments, reports and codes for academic projects
 - [Statistical Learning](https://github.com/petermartigny/Statistical-Learning)
 - [Structured Learning & Predictions in Computer Vision](https://github.com/petermartigny/Structured-Learning-and-Predictions)
 - [Machine Learning with Kernels](https://github.com/petermartigny/Machine-Learning-with-Kernels)
-- [Deep Learning](https://gi](https://github.com/petermartigny/Compressed-Sensing)thub.com/petermartigny/Deep-Learning)
+- [Deep Learning](https://github.com/petermartigny/Deep-Learning)
 - [Online Learning](https://github.com/petermartigny/Online-Learning)
 - [Compressed Sensing](https://github.com/petermartigny/Compressed-Sensing)
 - [DataViz](https://github.com/petermartigny/DataViz)
