@@ -23,7 +23,9 @@ I will share here comments, reports and codes for academic projects
 
 ## Deep Learning for NLP Study Group
 
-Works and thoughts from our 20 people informal group, studying the course from R. Socher and C. Manning @ Stanford [CS224d](http://cs224d.stanford.edu/syllabus) and [CS224n](http://web.stanford.edu/class/cs224n/)
+Works and thoughts from our 20 people informal group, studying the course from R. Socher and C. Manning @ Stanford [CS224d](http://cs224d.stanford.edu/syllabus) and [CS224n](http://web.stanford.edu/class/cs224n/).
+
+Works from the group are available on [github](https://github.com/DeepNLP)
 
 ## Data for Good projects
 
