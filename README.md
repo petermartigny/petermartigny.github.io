@@ -69,4 +69,5 @@ The project I've carried out with the French Cour des Comptes is explained in a 
 ## Open Data
 
 I plan to brainstorm on open datasets to find interesting things to do with them.
+
 The Open Data Playgroung is available on [github](https://github.com/petermartigny/Open-Data-Playground)
